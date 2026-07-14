@@ -8,8 +8,9 @@
 
 **🆔 Team ID:** `LTVIP2025TMID55809`
 
-### 👑 Sripriya Akula  
-[![LinkedIn – Sripriya Akula](https://img.shields.io/badge/LinkedIn-Sripriya%20Akula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripriya-akula-30065b319)
+### 👑 Sampathirao Lokeswara rao
+[![LinkedIn – Sripriya Akula
+(https://www.linkedin.com/in/sampathirao-lokeswara-rao-a1645a364)
 
 ### 💡 Poojitha Pasupuleti  
 [![LinkedIn – Poojitha Pasupuleti](https://img.shields.io/badge/LinkedIn-Poojitha%20Pasupuleti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-pasupuleti-01458a302)
