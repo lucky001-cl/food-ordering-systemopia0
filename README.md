@@ -211,7 +211,7 @@ This project is licensed under the MIT License, which permits anyone to use, mod
 
 ## 📞 Contact
 
-For support or inquiries, please contact the project maintainer at sripriya.akula2005@gmail.com
+For support or inquiries, please contact the project maintainer at lokeshsampathirao4@gmail.com
 
 
 ---
@@ -219,9 +219,9 @@ For support or inquiries, please contact the project maintainer at sripriya.akul
 
 ## 👥 Team Details
 
-- **🏷️ Team ID:** LTVIP2025TMID55809  
-- **🏫 College:** DMS SVH College of Engineering  
-- **🎓 Department:** Computer Science & Engineering (CSE)  
+- **🏷️ Team ID:** LTVIP2025TMID55809 
+- **🏫 College:** Avanthi Institute of Engineering and Technology
+- **🎓 Department:** Electronics & Communication Engineering (ECE)  
 - **📅 Year:** 3rd Year (Entering Final Year - 2025 Batch)
 
 ---
