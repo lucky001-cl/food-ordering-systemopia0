@@ -9,7 +9,7 @@
 **🆔 Team ID:** `LTVIP2025TMID55809`
 
 ### 👑 Sampathirao Lokeswara rao
-[![LinkedIn – Sripriya Akula
+[![LinkedIn – Sampathirao Lokeswara rao
 (https://www.linkedin.com/in/sampathirao-lokeswara-rao-a1645a364)
 
 ### 💡 Poojitha Pasupuleti  
